@@ -51,6 +51,7 @@ from tensorflow.keras.datasets import cifar10
 
 
 Dependencies
+
 Python 3.10+
 TensorFlow / Keras
 NumPy
